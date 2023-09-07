@@ -147,8 +147,8 @@
 			<groupId>org.sonarsource.sonarqube</groupId>
 			<artifactId>sonar-core</artifactId>
 			<version>${sonar-plugin-api.version}</version>
+			<scope>provided</scope>
 		</dependency>
-
 
 		<dependency>
 			<groupId>com.nimbusds</groupId>
